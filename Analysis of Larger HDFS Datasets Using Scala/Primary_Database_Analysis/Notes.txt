@@ -1,0 +1,1 @@
+If testing this code in spark shell, start the shell with the option " --packages mysql:mysql-connector-java:8.0.15"
